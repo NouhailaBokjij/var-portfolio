@@ -3,8 +3,6 @@
 An interactive web application for measuring and comparing portfolio risk
 using three classic VaR methodologies, built from scratch in Python with real market data.
 
-> Personal project — Application to MS Finance & Risk Management — ENSAE Paris
-
 ## Overview
 
 This project answers a fundamental question in risk management:
