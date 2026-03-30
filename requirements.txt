@@ -1,7 +1,8 @@
 numpy
 pandas
-matplotlib
+matplotlib==3.9.0
 scipy
 yfinance
-streamlit==1.32.0
-altair==4.2.2
+streamlit==1.40.0
+altair>=5.0.0
+pillow>=11.0.0
