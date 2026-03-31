@@ -1,6 +1,6 @@
 # Value at Risk — Portfolio Risk Analyzer
 
-An interactive web application for measuring and comparing portfolio risk
+An interactive web page for measuring and comparing portfolio risk
 using three classic VaR methodologies, built from scratch in Python with real market data.
 
 ## Overview
